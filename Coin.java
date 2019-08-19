@@ -1,6 +1,6 @@
 
 /**
- * Chapter6 - Coin Toss Simulator 
+* Coin Toss Simulator 
  * Write a class named Coin. The Coin class should have the following field: 
  * • A String named sideUp. The sideUp field will hold either “heads” or “tails” indicating the side of the coin that is facing up. 
  * The Coin class should have the following methods: 
